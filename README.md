@@ -1,4 +1,4 @@
-# O'Weather 🌤️
+# Meteo Widget 🌤️
 
 Cette application récupère la météo à partir d'une ville.
 
