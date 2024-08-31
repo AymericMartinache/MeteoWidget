@@ -39,3 +39,5 @@ Cette application récupère la météo à partir d'une ville.
 ```
 
 L’application sera accessible à l’adresse http://localhost:3000.
+
+---
